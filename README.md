@@ -28,6 +28,7 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 - 📫 Reach me at <a href="https://www.linkedin.com/in/augustinetettehozor/">
 
 <br/>
+
 ### 🧠 Core Expertise
 
 <table>

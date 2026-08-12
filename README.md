@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,100:1b263b&height=220&section=header&text=Augustine%20Ozor&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Governance%20%7C%20IT%20Compliance%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e6ff,50:6ec6ff,100:4fc3f7&height=220&section=header&text=Augustine%20Ozor&fontSize=48&fontColor=0a1128&fontAlignY=38&desc=AI%20Governance%20%7C%20IT%20Compliance%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/augustinetettehozor/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -127,7 +127,7 @@ Ghana — ICT & cyber-awareness training, endpoint security, phishing prevention
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,100:0a1128&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:6ec6ff,100:a8e6ff&height=100&section=footer" width="100%"/>
 
 *"Translating technical risk into clear controls, documentation, and trust."*
 

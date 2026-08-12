@@ -8,9 +8,7 @@
 <a href="https://medium.com/@augustineozor">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="mailto:augustine.o@students.opit.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 
 </div>
 

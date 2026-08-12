@@ -32,11 +32,7 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 ### 📖 Currently Reading
 
 <table>
-<tr>
-<td align="center" width="33%"><img src="https://covers.openlibrary.org/b/isbn/9781917534178-L.jpg" width="140"/></td>
-<td align="center" width="33%"><img src="https://img.shields.io/badge/Cover-Not%20Available-6ec6ff?style=for-the-badge"/></td>
-<td align="center" width="33%"><img src="https://img.shields.io/badge/Cover-Not%20Available-6ec6ff?style=for-the-badge"/></td>
-</tr>
+
 <tr>
 <td align="center"><strong>The Easy Peasy Guide to the EU AI Act</strong><br/><sub>Jamal Ahmed</sub></td>
 <td align="center"><strong>The AI Governance Practitioner's Guide</strong><br/><sub>Noah M. Kenney</sub></td>

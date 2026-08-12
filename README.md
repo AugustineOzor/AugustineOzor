@@ -113,7 +113,7 @@ Ghana — ICT & cyber-awareness training, endpoint security, phishing prevention
 ### 🎓 Education
 
 - **MSc, Enterprise Cybersecurity** — Open Institute of Technology (OPIT), 2026
-- **MA, Information Studies** — University College London (UCL), 2019–2020
+- **MA, Information Science** — University College London (UCL), 2019–2020
 - **Diploma, Information Technology** — OTHM International, 2020
 - **Bachelor of Education** — University of Education, Winneba, 2014–2016
 

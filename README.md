@@ -25,7 +25,7 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 - 👯 Looking to collaborate on **AI risk & governance tooling**, GRC automation, and responsible AI policy work
 - 🤔 Looking for help with **open-source GRC/AI governance projects** to contribute to
 - 💬 Ask me about **AI governance, ISO/IEC 27001, NIST AI RMF, cloud security (AWS/Azure), and IT audit**
-- 📫 Reach me at **augustine.o@students.opit.com**
+- 📫 Reach me at <a href="https://www.linkedin.com/in/augustinetettehozor/">
 
 <br/>
 ### 🧠 Core Expertise

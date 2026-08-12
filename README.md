@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Augustine%20Ozor&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Governance%20%7C%20IT%20Compliance%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,100:1b263b&height=220&section=header&text=Augustine%20Ozor&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Governance%20%7C%20IT%20Compliance%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/augustinetettehozor/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,9 +10,6 @@
 </a>
 <a href="mailto:augustine.o@students.opit.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Doha%2C%20Qatar-1e3c72?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </a>
 
 </div>
@@ -36,9 +33,13 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 
 <table>
 <tr>
+<td align="center"><img src="https://img.shields.io/badge/-AI%20GOVERNANCE-0a1128?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-GRC%20%26%20ASSURANCE-1b263b?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-TECHNOLOGY%20RISK-274472?style=for-the-badge"/></td>
+</tr>
+<tr>
 <td valign="top" width="33%">
 
-**AI Governance**
 - AI risk registers & assessments
 - Responsible AI policy
 - NIST AI RMF & ISO/IEC 42001
@@ -47,7 +48,6 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 </td>
 <td valign="top" width="33%">
 
-**GRC & Assurance**
 - ISO/IEC 27001 & NIST 800-53
 - ITGCs & control testing
 - Audit evidence & remediation
@@ -56,7 +56,6 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 </td>
 <td valign="top" width="33%">
 
-**Technology Risk**
 - AWS & Azure security
 - IAM, RBAC & encryption
 - Vulnerability management
@@ -76,16 +75,14 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 
 <br/>
 
-<div align="center">
+### 🏅 Certifications
 
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Lead%20Auditor-2a5298?style=flat-square)
-![AWS SA](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS AI](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-1e3c72?style=flat-square)
-![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B%20(Exam%20Pending)-C8102E?style=flat-square&logo=comptia&logoColor=white)
-![CISA](https://img.shields.io/badge/CISA-In%20Progress-orange?style=flat-square)
-
-</div>
+- ✅ **ISO/IEC 27001:2022 Lead Auditor**
+- ✅ **AWS Certified Solutions Architect**
+- ✅ **AWS Certified AI Practitioner**
+- ✅ **ISC2 Certified in Cybersecurity (CC)**
+- ✅ **CompTIA Security+** *(Exam Pending)*
+- 🔄 **CISA** *(In Progress)*
 
 <br/>
 
@@ -121,16 +118,16 @@ Ghana — ICT & cyber-awareness training, endpoint security, phishing prevention
 
 ### 🤝 Associations
 
-![ISACA](https://img.shields.io/badge/ISACA-Member-0057B8?style=flat-square)
-![ISC2](https://img.shields.io/badge/ISC2-Member-1e3c72?style=flat-square)
-![Internet Society](https://img.shields.io/badge/Internet%20Society-Member-003366?style=flat-square)
-![GRC Engineering Club](https://img.shields.io/badge/GRC%20Engineering%20Club-Member-2a5298?style=flat-square)
+![ISACA](https://img.shields.io/badge/ISACA-Member-0a1128?style=flat-square)
+![ISC2](https://img.shields.io/badge/ISC2-Member-1b263b?style=flat-square)
+![Internet Society](https://img.shields.io/badge/Internet%20Society-Member-274472?style=flat-square)
+![GRC Engineering Club](https://img.shields.io/badge/GRC%20Engineering%20Club-Member-0a1128?style=flat-square)
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,100:0a1128&height=100&section=footer" width="100%"/>
 
 *"Translating technical risk into clear controls, documentation, and trust."*
 

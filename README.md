@@ -19,7 +19,7 @@
 I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplinary background spanning enterprise cybersecurity, information science, and cloud security. I translate technical risk into clear controls, documentation, and remediation actions — bridging the gap between engineers, auditors, and business stakeholders.
 
 - 🔭 Currently working on **AI governance frameworks** — risk registers, responsible AI policy, and maturity assessments mapped to **NIST AI RMF** and **ISO/IEC 42001**
-- 🌱 Currently learning and preparing for **CISA certification**
+- 🌱 Currently learning and preparing for **AIGP certification**
 - 👯 Looking to collaborate on **AI risk & governance tooling**, GRC automation, and responsible AI policy work
 - 🤔 Looking for help with **open-source GRC/AI governance projects** to contribute to
 - 💬 Ask me about **AI governance, ISO/IEC 27001, NIST AI RMF, cloud security (AWS/Azure), and IT audit**

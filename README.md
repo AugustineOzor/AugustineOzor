@@ -99,8 +99,8 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 
 ### 💼 Professional Experience
 
-**IT Audit & Compliance Analyst** — *YesYoucan Cyber Secure* · Jul 2022 – Present
-Remote (Dallas, US) — Security-focused Linux administration training, system hardening, and control evaluation
+**GRC Analyst** — *NextTech Solutions* · Jul 2025 – Present
+Remote (Dallas, US) 
 
 **Associate Cloud Engineer** — *Jomacs IT Services* · Jun 2021 – Jun 2022
 Remote (Alberta, Canada) — AWS/Azure security, IAM/RBAC, vulnerability remediation, CI/CD compliance

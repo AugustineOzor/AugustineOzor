@@ -92,6 +92,7 @@ I'm an **AI Governance, IT Compliance & GRC professional** with a multidisciplin
 - ✅ **AWS Certified Solutions Architect**
 - ✅ **AWS Certified AI Practitioner**
 - ✅ **ISC2 Certified in Cybersecurity (CC)**
+- ✅ **Microsoft Cloud and Cybersecurity Certificate**
 - ✅ **CompTIA Security+** *(Exam Pending)*
 - 🔄 **CISA** *(In Progress)*
 

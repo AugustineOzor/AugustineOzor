@@ -14,7 +14,7 @@
 
 <br/>
 
-### 👋 About Me
+### About Me
 
 I'm an **AI Governance, Cybersecurity GRC professional** with a multidisciplinary background spanning enterprise cybersecurity, information science, and cloud security. I translate technical risk into clear controls, documentation, and remediation actions — bridging the gap between engineers, auditors, and business stakeholders.
 

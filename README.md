@@ -40,7 +40,7 @@ I'm an **AI Governance, Cybersecurity GRC professional** with a multidisciplinar
 
 <br/>
 
-### 🧠 Core Expertise
+### Core Expertise
 
 <table>
 <tr>

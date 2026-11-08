@@ -1,80 +1,76 @@
-# README
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E6B58,50:1F3A5F,100:0B1726&height=230&section=header&text=Augustine Ozor&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI Governance · GRC · IT Audit · Cloud Security&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e6ff,50:6ec6ff,100:4fc3f7&height=220&section=header&text=Augustine%20Ozor&fontSize=48&fontColor=0a1128&fontAlignY=38&desc=AI%20Governance%20%7C%20IT%20Compliance%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Turning responsible AI principles into working controls.
+<a href="https://www.linkedin.com/in/augustinetettehozor/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@augustineozor">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-<a href="https://augustineozor.github.io"><img src="https://img.shields.io/badge/Portfolio-augustineozor.github.io-0E6B58?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/augustinetettehozor/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@augustineozor"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="mailto:augustineozor@gmail.com"><img src="https://img.shields.io/badge/Email-Get in touch-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-## About
+### About Me
 
-I'm a **GRC Analyst and AI governance practitioner** with a background spanning enterprise cybersecurity, information science and cloud engineering. I help organisations govern AI and manage cyber risk by turning technical findings into clear controls, documentation and remediation that engineers, auditors and business leaders can all act on.
+I'm an **AI Governance, Cybersecurity GRC professional** with a multidisciplinary background spanning enterprise cybersecurity, information science, and cloud security. I translate technical risk into clear controls, documentation, and remediation actions — bridging the gap between engineers, auditors, and business stakeholders.
 
-- **Now:** GRC Analyst at Next Tech Solutions: enterprise and third-party risk assessments, control testing, audit readiness and AI governance
-- **Building:** end-to-end, real-world-style governance case studies on NIST AI RMF, ISO/IEC 42001, the EU AI Act and ISO/IEC 27001
-- **Studying:** IAPP AIGP and ISACA CISA
-- **Open to:** AI governance, GRC, IT audit, information security and cloud security roles, plus consulting and collaboration
+- 🔭 Currently working on **AI governance frameworks** — risk registers, responsible AI policy, and maturity assessments mapped to **NIST AI RMF** and **ISO/IEC 42001**
+- 🌱 Currently learning and preparing for **AIGP certification**
+- 👯 Looking to collaborate on **AI risk & governance tooling**, GRC automation, and responsible AI policy work
+- 🤔 Looking for help with **open-source GRC/AI governance projects** to contribute to
+- 💬 Ask me about **AI governance, ISO/IEC 27001, NIST AI RMF, cloud security (AWS/Azure), and IT audit**
+
 
 <br/>
 
-## Featured Projects
+### 📖 Currently Reading
 
-| Project | What it shows | Frameworks |
-| --- | --- | --- |
-| **Cedarline Bank: NIST AI RMF for a high-risk credit model** | Govern → Map → Measure → Manage for an AI credit-decisioning model: risk tolerance, impact assessment, testing with real failures and fixes, risk register and go/no-go decision | NIST AI RMF · EU AI Act · ISO/IEC 42001 |
-| **Corvane Health: AI Security Operations Playbook** | Threat models, controls, detections and incident playbooks for a staff GenAI assistant and an agentic clinical AI | NIST CSF 2.0 · OWASP LLM Top 10 · MITRE ATLAS · HIPAA |
-| **NexusGuard: ISO/IEC 27001 ISMS implementation** | Policy suite, access control, governance metrics, asset register, SOPs and awareness programme | ISO/IEC 27001:2022 |
-| **Responsible AI Deployment Framework** | Weighted pre-deployment scoring across seven responsible AI domains with approval gates | Responsible AI · NIST AI RMF |
-| **EU AI Act Article 16 provider compliance** | All 12 provider obligations mapped to actions, owners and evidence | EU AI Act |
-| **SOC 2 Type II readiness** | Control design, evidence, testing, findings and remediation as Compliance Manager | SOC 2 |
+<table>
 
-<sub>All case studies use fictional organisations and data. More projects, articles and labs on the <a href="https://augustineozor.github.io">portfolio site</a>.</sub>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/The%20Easy%20Peasy%20Guide%20to%20the%20EU%20AI%20Act-4fc3f7?style=for-the-badge&logoColor=0a1128"/><br/><sub>Jamal Ahmed</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/The%20AI%20Governance%20Practitioner's%20Guide-6ec6ff?style=for-the-badge&logoColor=0a1128"/><br/><sub>Noah M. Kenney</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Governing%20Intelligence-a8e6ff?style=for-the-badge&logoColor=0a1128"/><br/><sub>Noah M. Kenney</sub></td>
+</tr>
+</table>
 
 <br/>
 
-## Core Expertise
+### Core Expertise
 
 <table>
 <tr>
-<th width="33%">AI Governance</th>
-<th width="33%">GRC and Assurance</th>
-<th width="33%">Technology Risk</th>
+<td align="center"><img src="https://img.shields.io/badge/-AI%20GOVERNANCE-0a1128?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-GRC%20%26%20ASSURANCE-1b263b?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-TECHNOLOGY%20RISK-274472?style=for-the-badge"/></td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="33%">
 
-- AI risk and impact assessments
-- AI inventories and risk registers
-- Responsible AI policy and human oversight
-- EU AI Act, ISO/IEC 42001, NIST AI RMF
+- AI risk registers & assessments
+- Responsible AI policy
+- NIST AI RMF & ISO/IEC 42001
 - AI vendor governance
 
 </td>
-<td valign="top">
+<td valign="top" width="33%">
 
-- ISO/IEC 27001, NIST SP 800-53, SOC 2
-- ITGC and control testing
-- Audit evidence and remediation tracking
+- ISO/IEC 27001 & NIST 800-53
+- ITGCs & control testing
+- Audit evidence & remediation
 - Third-party risk management
-- Policy development and control mapping
 
 </td>
-<td valign="top">
+<td valign="top" width="33%">
 
-- AWS and Azure security
-- IAM, RBAC and encryption
-- SIEM monitoring and vulnerability management
-- Infrastructure as code (Terraform)
-- Continuous compliance
+- AWS & Azure security
+- IAM, RBAC & encryption
+- Vulnerability management
+- Continuous compliance & CI/CD
 
 </td>
 </tr>
@@ -82,106 +78,69 @@ I'm a **GRC Analyst and AI governance practitioner** with a background spanning 
 
 <br/>
 
-## Frameworks I Work With
+### 🛠️ Tools & Technologies
 
-<p>
-<img src="https://img.shields.io/badge/EU AI Act-1F3A5F?style=flat-square"/>
-<img src="https://img.shields.io/badge/ISO%2FIEC 42001-1F3A5F?style=flat-square"/>
-<img src="https://img.shields.io/badge/NIST AI RMF-1F3A5F?style=flat-square"/>
-<img src="https://img.shields.io/badge/ISO%2FIEC 27001-0E6B58?style=flat-square"/>
-<img src="https://img.shields.io/badge/NIST CSF 2.0-0E6B58?style=flat-square"/>
-<img src="https://img.shields.io/badge/NIST SP 800--53-0E6B58?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOC 2-0E6B58?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOX-0E6B58?style=flat-square"/>
-<img src="https://img.shields.io/badge/GDPR-274472?style=flat-square"/>
-<img src="https://img.shields.io/badge/HIPAA-274472?style=flat-square"/>
-<img src="https://img.shields.io/badge/PCI DSS-274472?style=flat-square"/>
-<img src="https://img.shields.io/badge/OWASP LLM Top 10-274472?style=flat-square"/>
-</p>
-
-## Tools and Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux,bash,py,git,github,docker&theme=dark" />
-</p>
-
-<sub>Also: Microsoft Sentinel · Splunk · Nessus · Trivy · ServiceNow GRC · AWS Security Hub · Microsoft Defender for Cloud</sub>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash,git,github,docker,py&theme=dark" />
+</div>
 
 <br/>
 
-## Certifications
+### 🏅 Certifications
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Held**
-
-- ISO/IEC 27001:2022 Lead Auditor
-- Certified AI Governance Practitioner
-- Certified AI Security Practitioner
-- AWS Certified Solutions Architect
-- AWS Certified AI Practitioner
-- ISC2 Certified in Cybersecurity (CC)
-- Microsoft Cloud and Cybersecurity MicroDegree
-- IT Audit and GRC Certification
-
-</td>
-<td valign="top" width="50%">
-
-**In progress**
-
-- ISACA CISA: training complete, exam pending
-- IAPP AIGP
-
-</td>
-</tr>
-</table>
+- ✅ **ISO/IEC 27001:2022 Lead Auditor**
+- ✅ **AWS Certified Solutions Architect**
+- ✅ **AWS Certified AI Practitioner**
+- ✅ **ISC2 Certified in Cybersecurity (CC)**
+- ✅ **Microsoft Cloud and Cybersecurity Certificate**
+- ✅ **CompTIA Security+** *(Exam Pending)*
+- 🔄 **CISA** *(In Progress)*
 
 <br/>
 
-## Experience
+### 💼 Professional Experience
 
-| Role | Organisation | Period |
-| --- | --- | --- |
-| **GRC Analyst** | Next Tech Solutions · Dallas, TX (Remote) | Sep 2025 – Present |
-| **Associate Cloud Engineer** | JOMACS · Calgary, AB (Remote) | Jun 2023 – Jun 2024 |
-| **Linux System Administrator** | Enamor Cybersecurity · Accra, Ghana | Jan 2021 – Jun 2021 |
-| **Technology Instructor and IT Support** | Ghana Education Service · Ghana | Sep 2013 – Aug 2019 |
+**GRC Analyst** — *NextTech Solutions* · Jul 2025 – Present
+Remote (Dallas, US) 
 
-## Education
+**Associate Cloud Engineer** — *Jomacs IT Services* · Jun 2021 – Jun 2022
+Remote (Alberta, Canada) — AWS/Azure security, IAM/RBAC, vulnerability remediation, CI/CD compliance
 
-- **MSc, Enterprise Cybersecurity**, Open Institute of Technology (OPIT), 2026
-- **MA, Information Science**, University College London (UCL), 2020
-- **International Diploma in Information Technology**, OTHM, 2020
-- **Bachelor of Education**, University of Education, Winneba, 2016
+**Technology Instructor & IT Support** — *Ghana Education Service* · Sep 2013 – Aug 2019
+Ghana — ICT & cyber-awareness training, endpoint security, phishing prevention workshops
 
-## Writing and Research
+<br/>
 
-- **EU AI Act, article by article:** a 56-part plain-language series, plus 60+ articles on AI governance, AI risk and security, on my portfolio site
-- *Information Literacy Behavior and Practice: An Assessment of Undergraduate Students at Ada College of Education, Ghana*, Journal of Library Administration (DOI)
+### 🎓 Education
 
-## Currently Reading
+- **MSc, Enterprise Cybersecurity** — Open Institute of Technology (OPIT), 2026
+- **MA, Information Science** — University College London (UCL), 2019–2020
+- **Diploma, Information Technology** — OTHM International, 2020
+- **Bachelor of Education** — University of Education, Winneba, 2014–2016
 
-- *The Easy Peasy Guide to the EU AI Act*, Jamal Ahmed
-- *The AI Governance Practitioner's Guide*, Noah M. Kenney
-- *Governing Intelligence*, Noah M. Kenney
+<br/>
 
-## Memberships
+### 📚 Research & Publications
 
-<p>
-<img src="https://img.shields.io/badge/ISACA-Member-1F3A5F?style=flat-square"/>
-<img src="https://img.shields.io/badge/ISC2-Member-1F3A5F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Internet Society-Member-1F3A5F?style=flat-square"/>
-<img src="https://img.shields.io/badge/GRC Engineering Club-Member-1F3A5F?style=flat-square"/>
-</p>
+- *Information Literacy Behavior and Practice: An Assessment of Undergraduate Students at Ada College of Education, Ghana* — [DOI: 10.1080/01930826.2021.2006992](https://doi.org/10.1080/01930826.2021.2006992)
+- *Cloud Misconfiguration Vulnerabilities and Governance Practices in Enterprise Environments* — MSc Dissertation, OPIT (Unpublished)
+- Research interests: AI Governance · Technology Risk · Information Governance · Cybersecurity Compliance · Responsible AI
+
+<br/>
+
+### 🤝 Associations
+
+![ISACA](https://img.shields.io/badge/ISACA-Member-0a1128?style=flat-square)
+![ISC2](https://img.shields.io/badge/ISC2-Member-1b263b?style=flat-square)
+![Internet Society](https://img.shields.io/badge/Internet%20Society-Member-274472?style=flat-square)
+![GRC Engineering Club](https://img.shields.io/badge/GRC%20Engineering%20Club-Member-0a1128?style=flat-square)
+
+<br/>
 
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:6ec6ff,100:a8e6ff&height=100&section=footer" width="100%"/>
 
-*"Security is a process, not a product."* — Bruce Schneier
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1726,50:1F3A5F,100:0E6B58&height=110&section=footer" width="100%"/>
+*"Translating technical risk into clear controls, documentation, and trust."*
 
 </div>

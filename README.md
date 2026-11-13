@@ -2,13 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e6ff,50:6ec6ff,100:4fc3f7&height=220&section=header&text=Augustine%20Ozor&fontSize=48&fontColor=0a1128&fontAlignY=38&desc=AI%20Governance%20%7C%20IT%20Compliance%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/augustinetettehozor/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://medium.com/@augustineozor">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
 
 </div>
 
@@ -111,22 +104,7 @@ Ghana — ICT & cyber-awareness training, endpoint security, phishing prevention
 
 <br/>
 
-### 🎓 Education
 
-- **MSc, Enterprise Cybersecurity** — Open Institute of Technology (OPIT), 2026
-- **MA, Information Science** — University College London (UCL), 2019–2020
-- **Diploma, Information Technology** — OTHM International, 2020
-- **Bachelor of Education** — University of Education, Winneba, 2014–2016
-
-<br/>
-
-### 📚 Research & Publications
-
-- *Information Literacy Behavior and Practice: An Assessment of Undergraduate Students at Ada College of Education, Ghana* — [DOI: 10.1080/01930826.2021.2006992](https://doi.org/10.1080/01930826.2021.2006992)
-- *Cloud Misconfiguration Vulnerabilities and Governance Practices in Enterprise Environments* — MSc Dissertation, OPIT (Unpublished)
-- Research interests: AI Governance · Technology Risk · Information Governance · Cybersecurity Compliance · Responsible AI
-
-<br/>
 
 ### 🤝 Associations
 

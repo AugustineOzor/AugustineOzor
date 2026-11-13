@@ -103,7 +103,22 @@ Remote (Alberta, Canada) — AWS/Azure security, IAM/RBAC, vulnerability remedia
 Ghana — ICT & cyber-awareness training, endpoint security, phishing prevention workshops
 
 <br/>
+### 🎓 Education
 
+- **MSc, Enterprise Cybersecurity** — Open Institute of Technology (OPIT), 2026
+- **MA, Information Science** — University College London (UCL), 2019–2020
+- **Diploma, Information Technology** — OTHM International, 2020
+- **Bachelor of Education** — University of Education, Winneba, 2014–2016
+
+<br/>
+
+### 📚 Research & Publications
+
+- *Information Literacy Behavior and Practice: An Assessment of Undergraduate Students at Ada College of Education, Ghana* — [DOI: 10.1080/01930826.2021.2006992](https://doi.org/10.1080/01930826.2021.2006992)
+- *Cloud Misconfiguration Vulnerabilities and Governance Practices in Enterprise Environments* — MSc Dissertation, OPIT (Unpublished)
+- Research interests: AI Governance · Technology Risk · Information Governance · Cybersecurity Compliance · Responsible AI
+
+<br/>
 
 
 ### 🤝 Associations
